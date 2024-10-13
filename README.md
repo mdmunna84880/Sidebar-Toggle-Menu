@@ -21,4 +21,4 @@ This project demonstrates the implementation of a sidebar navigation menu with a
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone <[repository-url](https://github.com/mdmunna84880/Sidebar-Toggle-Menu)>
+   git clone <(https://github.com/mdmunna84880/Sidebar-Toggle-Menu)>
